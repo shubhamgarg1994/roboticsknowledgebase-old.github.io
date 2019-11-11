@@ -41,6 +41,10 @@ wiki:
         url: /wiki/common-platforms/ros-intro/
       - title: Asctec Pelican UAV Setup Guide
         url: /wiki/common-platforms/asctec-uav-setup-guide/
+      - title: Husky Interfacing Procedure
+        url: /wiki/common-platforms/husky_interfacing_and_communication/
+      - title: ROS Motion Server Framework
+        url: /wiki/common-platforms/ros-motion-server-framework/
   - title: Sensing
     url: /wiki/sensing/
     children:
@@ -62,6 +66,8 @@ wiki:
         url: /wiki/sensing/speech-recognition/
       - title: Stereo Vision in OpenCV
         url: /wiki/sensing/opencv-stereo/
+      - title: Camera-IMU Calibration using kalibr
+        url: /wiki/sensing/camera-imu-calibration/
   - title: Actuation
     url: /wiki/actuation/
     children:
@@ -88,6 +94,8 @@ wiki:
         url: /wiki/state-estimation/ros-navigation/
       - title: SBPL Lattice Planner
         url: /wiki/state-estimation/sbpl-lattice-planner/
+      - title: ORB SLAM2 Setup Guidance
+        url: /wiki/state-estimation/orb-slam2-setup/
   - title: Programming
     url:  /wiki/programming/
     children:
@@ -145,6 +153,8 @@ wiki:
   - title: Fabrication
     url: /wiki/fabrication/
     children:
+      - title: Fabrication Considerations for 3D printing
+        url: /wiki/fabrication/fabrication_considerations_for_3D_printing/
       - title: Machining & Prototyping
         url: /wiki/fabrication/machining-prototyping/
       - title: Rapid Prototyping
@@ -167,6 +177,8 @@ wiki:
   - title: Tools
     url: /wiki/tools/
     children:
+      - title: Docker
+        url: /wiki/tools/docker/
       - title: Vim
         url: /wiki/tools/vim/
       - title: Altium Circuitmaker
